@@ -1,7 +1,28 @@
 html {
 	box-sizing: border-box;
+	font-family: "Dosis", sans-serif;
+	background-color: #efeee9;
 }
 
 *, *::before, *::after {
 	box-sizing: inherit;
 }
+
+h1 {
+	text-align: center;
+	font-size: 2rem;
+}
+
+.nav-boxes {
+	margin: 0;
+padding: 0;
+list-style-type: none;
+text-align: center;
+}
+
+.nav-boxes li {
+  display: block;
+	background-color: #9a816d
+}
+
+795437
